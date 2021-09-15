@@ -1,0 +1,64 @@
+{E:/ENG/My Work/Self_Projects/Project_1/ControlUnit.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/ControlUnit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/Mux21.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/Mux21.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux21
+
+Top level modules:
+	Mux21
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/ALU.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/RegFile.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/RegFile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/SignExtension.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/SignExtension.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtension
+
+Top level modules:
+	SignExtension
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/InstructionMemory.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/InstructionMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/DataMemory.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/DataMemory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/MIPS_CPU.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/MIPS_CPU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_CPU
+
+Top level modules:
+	MIPS_CPU
+
+} {} {}} {E:/ENG/My Work/Self_Projects/Project_1/ProgramCounter.v} {1 {vlog -work work {E:/ENG/My Work/Self_Projects/Project_1/ProgramCounter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}}
